@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://bia1fwmqp14di"]
+
+[ext_resource type="Script" path="res://riley_harris.gd" id="1_sqyxt"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Riley Harris" type="Label" parent="."]
+offset_right = 217.0
+offset_bottom = 109.0
+text = "Riley Harris"
+script = ExtResource("1_sqyxt")
